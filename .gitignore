@@ -1,0 +1,8 @@
+.vs
+.vscode
+
+.git
+
+out
+
+CMakeLists.prv
